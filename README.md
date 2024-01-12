@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amirrezamirzaei8
+- 👋 Hi, I’m AmirReza
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Object Oriented Programming, Web Programming and Database Systems
 - 💞️ I’m looking to collaborate on ...
