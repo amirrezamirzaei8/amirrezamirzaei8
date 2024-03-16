@@ -1,8 +1,8 @@
-- 👋 Hi, I’m AmirReza
+- 👋 Hi, I’m Amirreza
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Object Oriented Programming, Web Programming and Database Systems
+- 🌱 I’m currently learning Object Oriented Programming (Java), Web Programming, Database Systems, Operating System Fundamentals (GNU/Linux), Systems Analysis and Design, Mobile Graphical Interface Programming, Network Programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me mirz0059@algonquinlive.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
